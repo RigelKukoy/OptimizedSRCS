@@ -104,7 +104,7 @@ This implementation is based on the research paper:
 "Parallel Square Root Counting Sort Algorithm Using MPI"
 [Link to paper](https://drive.google.com/file/d/11ZOY1lcs8r6FsCpapZgly84vlF_MAJcc/view)
 
-### Algorithm Visualization
+### Research paper
 
 <p align="center">
   <img src="/images/introduction.png" alt="SRCS Algorithm Overview"/>
@@ -113,7 +113,7 @@ This implementation is based on the research paper:
 </p>
 
 <p align="center">
-  <img src="/images/performance.png" alt="Performance Results"/>
+  <img src="/images/results.png" alt="Performance Results"/>
   <br>
   <em>Figure 2: Experimental results</em>
 </p>
