@@ -1,12 +1,11 @@
 # OptimizedSRCS
 
-## Output
+## Project Contributors
 
-The program will output:
+Created as a school project by:
 
-1. Confirmation of successful file opening
-2. Number of elements read from the input file
-3. Execution time for sorting and merging operations
+- [@RigelKukoy](https://github.com/RigelKukoy)
+- [@keyceerhaye](https://github.com/keyceerhaye)
 
 ## Contributing
 
@@ -140,3 +139,10 @@ If you encounter errors:
    echo "localhost slots=4" > hostfile
    mpirun -np 4 --hostfile hostfile ./MPISRCS
    ```
+
+## Project Contributors
+
+Created as a school project by:
+
+- [@RigelKukoy](https://github.com/RigelKukoy)
+- [@keyceerhaye](https://github.com/keyceerhaye)
