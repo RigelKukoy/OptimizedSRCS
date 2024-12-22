@@ -106,11 +106,17 @@ This implementation is based on the research paper:
 
 ### Algorithm Visualization
 
-![SRCS Algorithm Overview](/images/srcs_algorithm.png)
-_Figure 1: Paper introduction_
+<p align="center">
+  <img src="/images/srcs_algorithm.png" alt="SRCS Algorithm Overview"/>
+  <br>
+  <em>Figure 1: Paper introduction</em>
+</p>
 
-![Performance Results](images/performance_results.png)
-_Figure 2: Experimental results_
+<p align="center">
+  <img src="images/performance_results.png" alt="Performance Results"/>
+  <br>
+  <em>Figure 2: Experimental results</em>
+</p>
 
 ### Troubleshooting
 
